@@ -10,5 +10,17 @@
   },
   "dependencies": {
     "astro": "^5.7.10"
-  }
+  },
+  "description": "```sh\r npm create astro@latest -- --template basics\r ```",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XFelipe41/Pagina-Ejemplo-sub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XFelipe41/Pagina-Ejemplo-sub/issues"
+  },
+  "homepage": "https://github.com/XFelipe41/Pagina-Ejemplo-sub#readme"
 }
